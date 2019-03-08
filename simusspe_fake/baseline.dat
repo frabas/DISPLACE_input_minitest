@@ -18,8 +18,8 @@ baseline
 204
 # a_port
 36
-# grid res km
-15
+# grid res km over x and y
+15 15.5
 # is_individual_vessel_quotas
 0
 #  check all stocks before going fishing (otherwise, explicit pops only)
