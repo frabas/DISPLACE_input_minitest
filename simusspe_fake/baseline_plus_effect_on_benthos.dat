@@ -1,7 +1,7 @@
 # dyn_alloc_sce
 baseline envt_variables_diffusion
 # dyn_pop_sce
-baseline 
+baseline direct_killing_on_benthos resuspension_effect_on_benthos shipping_on_benthos
 # biolsce
 1
 # fleetsce
