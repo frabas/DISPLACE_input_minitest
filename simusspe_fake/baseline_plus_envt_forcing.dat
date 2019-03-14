@@ -1,7 +1,7 @@
 # dyn_alloc_sce
-baseline envt_variables_diffusion
-# dyn_pop_sce
 baseline 
+# dyn_pop_sce
+baseline envt_variables_diffusion
 # biolsce
 1
 # fleetsce
