@@ -1,0 +1,4 @@
+stock;Winf;k;Linf;K;t0;a;b;L50;alpha;beta;r_age;tac_tons;fbar_age_min;fbar_age_max;F_target;F_percent;TAC_percent;B_trigger;FMSY;fbar_assessment;ssb_assessment;mls_cat;mls;size_bin_cm;unit_sizebin;CV_recru;mat;mat_cat;etha_m;kappa;q;n;fzeroest;species
+stock_1;787.4188153;0.1788;45.485;0.1788;-1.84;0.0032;3.2518;32;290614503;0;0;0;0;0;0;10;15;0;0.33;0;0;1;0;5;1;0.2;32;7;0.318706477;1.46E+13;0.8;0.75;0.6;Argentina silus
+stock_2;67.70312891;0.190592;15.563073;0.190592;-1.662997;0.035042727;2.7565;9.7;3648085849;0;0;16837;0;0;0;10;15;0;0.33;0.581;0;1;0;5;1;0.2;9.7;2;0.27165984;1.46E+13;0.8;0.75;0.6;Capros aper
+stock_3;19901.79118;0.23;123.1;0.23;-0.51666;0.0066725;3.097514;23;1364261392;0;0;4154;2;5;0.35;10;15;10300;0.35;0.527;5872;7;35;5;1;0.2;23;5;0.089658894;1.46E+13;0.8;0.75;0.6;Gadus morhua
