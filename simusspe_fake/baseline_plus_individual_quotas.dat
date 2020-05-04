@@ -1,5 +1,5 @@
 # dyn_alloc_sce
-baseline area_monthly_closure
+baseline TACs
 # dyn_pop_sce
 baseline 
 # biolsce
@@ -7,27 +7,27 @@ baseline
 # fleetsce
 1
 # Frequency to apply growth (0:daily; 1:weekly; 2:monthly; 3:quarterly; 4:semester)
-4
+3
 # Frequency to redispatch the pop (0:daily; 1:weekly; 2:monthly; 3:quarterly; 4:semester)
 3
 # a_graph
-1
+0
 # nrow_coord
 41
 # nrow_graph
 204
 # a_port
 36
-# grid res km
-15
+# grid res km over x and y
+15 15.5
 # is_individual_vessel_quotas
-0
+1
 #  check all stocks before going fishing (otherwise, explicit pops only)
 0
 # Go Fishing DTree
 GoFishing_test.dt.csv
 # Choose Ground DTree
-ChooseGround_avoiding_choke_species.dt.csv
+
 # Start Fishing DTree
 
 # Change Ground DTree
