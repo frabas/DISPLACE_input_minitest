@@ -12,3 +12,9 @@
 1 1 1 
 # Interesting harbours
 
+# implicit stocks level 2
+
+# grouped tacs (a group id for each stock e.g. 1 1 2 2 3 4 if 6 stocks but only 4 tacs)
+0 1 2
+# nbcp coupling pop ids
+2
