@@ -1,7 +1,7 @@
 # dyn_alloc_sce
 baseline otherLandAsMultiplierOnSp otherLandPerMetPerPop
 # dyn_pop_sce
-baseline sizeSpectra
+baseline sizeSpectra stochasticGrowth
 # biolsce
 1
 # fleetsce
