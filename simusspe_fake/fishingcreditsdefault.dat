@@ -1,0 +1,54 @@
+# dyn_alloc_sce
+baseline focus_on_high_profit_grounds fishing_credits averageTariffsPerRectangle
+# dyn_pop_sce
+baseline 
+# biolsce
+1
+# fleetsce
+1
+# Frequency to apply growth (0:daily; 1:weekly; 2:monthly; 3:quarterly; 4:semester)
+3
+# Frequency to redispatch the pop (0:daily; 1:weekly; 2:monthly; 3:quarterly; 4:semester)
+3
+# a_graph
+0
+# nrow_coord
+41
+# nrow_graph
+204
+# a_port
+36
+# grid res km
+15
+# is_individual_vessel_quotas
+0
+#  check all stocks before going fishing (otherwise, explicit pops only)
+0
+# Go Fishing DTree
+GoFishing_test.dt.csv
+# Choose Ground DTree
+
+# Start Fishing DTree
+
+# Change Ground DTree
+
+# Stop Fishing DTree
+
+# Change Port DTree
+
+# Use Dtrees
+1
+#tariff_pop
+2
+#freq_update_tariff_code (0: daily, 1: weekly, 2: monthly)
+2
+#arbitrary_breaks_for_tariff
+-1 0.1 0.5 1 2 5 100000
+#total_amount_credited (in fact the observed total annual effort in hour)
+1000
+#tariff_annual_ (percent change in HCR)
+10
+#update_tariffs_based_on_lpue_or_dpue_code (1: lpue, 2: dpue)
+2
+# banned metiers
+
