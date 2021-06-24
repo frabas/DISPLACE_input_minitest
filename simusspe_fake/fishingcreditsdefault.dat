@@ -44,7 +44,9 @@ GoFishing_test.dt.csv
 2
 #arbitrary_breaks_for_tariff
 -1 0.1 0.5 1 2 5 100000
-#total_amount_credited (in fact the observed total annual effort in hour)
+#met_multiplier_on_arbitary_breaks_for_tariff (as many multipliers as metiers)
+0.1 0.5
+#total_amount_credited (in practice, this could be the observed total annual effort in hour or every two hours)
 1000
 #tariff_annual_ (percent change in HCR)
 10

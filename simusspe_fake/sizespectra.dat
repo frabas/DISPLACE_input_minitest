@@ -1,5 +1,5 @@
 # dyn_alloc_sce
-baseline otherLandAsMultiplierOnSp TACs otherLandPerMetPerPop
+baseline focus_on_high_profit_grounds experiencedCPUEsPerYearQuarter otherLandAsMultiplierOnSp TACs otherLandPerMetPerPop
 # dyn_pop_sce
 baseline sizeSpectra stochasticGrowth
 # biolsce
@@ -43,6 +43,8 @@ GoFishing_test.dt.csv
 #req_update_tariff_code
 
 #arbitrary_breaks_for_tariff
+
+#met_multiplier_on_arbitary_breaks_for_tariff
 
 #total_amount_credited
 
