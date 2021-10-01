@@ -1,5 +1,5 @@
 # dyn_alloc_sce
-baseline focus_on_high_profit_grounds fishing_credits averageTariffsPerRectangle
+baseline focus_on_high_profit_grounds fishing_credits averageCPUEsPerRectangle PickUpTheMostFrequentGroundEachTime
 # dyn_pop_sce
 baseline 
 # biolsce
@@ -51,6 +51,6 @@ GoFishing_test.dt.csv
 #tariff_annual_ (percent change in HCR)
 10
 #update_tariffs_based_on_lpue_or_dpue_code (1: lpue, 2: dpue)
-2
+1
 # banned metiers
 
